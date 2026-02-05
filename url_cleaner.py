@@ -53,7 +53,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Display company logo at the top (adjust the path as necessary)
-st.image("/Users/robertomurphy/Desktop/url_cleaner_app/banner.png", width=900)  # Adjust the path and width as needed
+st.image("banner.png", width=900)  # Adjust the path and width as needed
 
 # Title with custom class
 st.markdown('<h1 class="title">The Sure Oak URL Cleaner</h1>', unsafe_allow_html=True)
