@@ -3,8 +3,8 @@ from urllib.parse import urlparse
 
 # Add custom CSS for colors and fonts
 st.markdown("""
-    <style>
-        /* Apply to the whole page */
+   <style>
+        /* Force background color for the entire page */
         body {
             background-color: #13322E !important;  /* Set background color */
             color: #00DEBB !important;  /* Set font color */
